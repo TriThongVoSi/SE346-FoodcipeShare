@@ -1,0 +1,35 @@
+{
+  "name": "foodcipe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@google/genai": "^1.2.0",
+    "@react-native-community/datetimepicker": "8.2.0",
+    "@react-native-picker/picker": "^2.11.0",
+    "@react-navigation/native-stack": "^7.3.1",
+    "base-64": "^1.0.0",
+    "expo": "~52.0.40",
+    "expo-image": "^2.0.6",
+    "expo-image-picker": "^16.0.6",
+    "expo-secure-store": "^14.0.1",
+    "expo-status-bar": "~2.0.1",
+    "react": "18.3.1",
+    "react-native": "0.76.7",
+    "react-native-base64": "^0.2.1",
+    "react-native-dropdown-picker": "^5.4.6",
+    "react-native-modal-datetime-picker": "^18.0.0",
+    "react-native-picker": "^4.3.7",
+    "react-native-safe-area-context": "^5.3.0",
+    "react-native-svg": "^15.11.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
