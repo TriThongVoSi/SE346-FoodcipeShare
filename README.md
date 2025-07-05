@@ -1,5 +1,5 @@
 # ĐỒ ÁN LẬP TRÌNH TRÊN THIẾT BỊ DI ĐỘNG
-# NGUYỄN TẤN TOÀN
+# GVHD: NGUYỄN TẤN TOÀN
 # FoodcipeShare
 
 FoodcipeShare là ứng dụng chia sẻ công thức nấu ăn, gồm frontend (React Native/Expo) và backend (ASP.NET Core/.NET 8, PostgreSQL, Docker). Ứng dụng cho phép người dùng đăng ký, đăng nhập, đăng bài, bình luận, lưu và chia sẻ công thức, quản lý nguyên liệu, nhận thông báo, v.v.
