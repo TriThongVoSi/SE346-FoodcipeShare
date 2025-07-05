@@ -104,9 +104,7 @@ dotnet run
 ## API Keys
 Dự án này sử dụng 1 API kiểm duyệt bình luận:
 - **Gemini Flash (Google AI)**: Đăng ký và lấy API key tại https://makersuite.google.com/app/apikey
-
 Sau đó cập nhật file cấu hình (hoặc thay thế trực tiếp trong code) với các giá trị:
-```jsx
 const ai = new GoogleGenAI({ apiKey: "YOUR_API_KEY" });
 
 ---
